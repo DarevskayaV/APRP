@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5+acDqhfPHz/lJ3I4LhbnQqBNKsG8QA4giTSJj5J3lE=",
+  "Source": "SimpleServer",
+  "BasePath": "_content/SimpleServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
